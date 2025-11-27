@@ -1,5 +1,3 @@
-package main.java.com.artourguide;
-
 package com.artourguide;
 
 import javafx.scene.image.*;
